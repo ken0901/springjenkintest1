@@ -36,7 +36,7 @@ public class SwaggerConfig {
 					 new Contact(
 							 "Ashok", 
 							 "http://www.google.com/", 
-							 "maruthil@gmail.com"
+							 "ken5260715@gmail.com"
 					),
 					"Apache License Version 2.0",
 					"https://www.apache.org/licenses/LICENSE-2.0"
